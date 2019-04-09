@@ -2,7 +2,7 @@
 # **ISLR-PySpark**
 -------------
 
-ILSR-PySpark repository contains PySpark code for LAB sections from the book '[An Introduction to Statistical Learning with Applications in R]' (http://www-bcf.usc.edu/~gareth/ISL/index.html) by James, Witten, Hastie, Tibshirani (2013). The book is arguably the best introductory book for Statistical/Machine learning, and contains sections with applications in R based on freely available datasets. Python code to replicate examples of this book can be found [here](https://github.com/JWarmenhoven/ISLR-python).  
+ISLR-PySpark repository contains PySpark code for LAB sections from the book '[An Introduction to Statistical Learning with Applications in R]' (http://www-bcf.usc.edu/~gareth/ISL/index.html) by James, Witten, Hastie, Tibshirani (2013). The book is arguably the best introductory book for Statistical/Machine learning, and contains sections with applications in R based on freely available datasets. Python code to replicate examples of this book can be found [here](https://github.com/JWarmenhoven/ISLR-python).  
 
 The goal of this repository to replicate LAB (and later exercise) sections using PySpark. The repository is still in development stage.
 
